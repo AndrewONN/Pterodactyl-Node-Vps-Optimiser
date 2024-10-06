@@ -19,4 +19,4 @@ The **Pterodactyl Node VPS Optimizer** is a shell script designed to enhance the
 To download and execute the optimization script, simply run the following command in your terminal:
 
 ```bash
-bash -c "$(curl -s https://raw.githubusercontent.com/AndrewONN/Pterodactyl-Node-Vps-Optimiser/main/optimize_vps.sh | bash)"
+bash -c $(curl -s https://raw.githubusercontent.com/AndrewONN/Pterodactyl-Node-Vps-Optimiser/main/optimize_vps.sh | bash)
