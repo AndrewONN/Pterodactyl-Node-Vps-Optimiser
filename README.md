@@ -1,3 +1,11 @@
+
+
+```bash
+andrewopt
+Here’s the revised README file with the installation section moved right after the chart:
+
+---
+
 # Pterodactyl Node VPS Optimizer
 
 ## Supported Operating Systems and PHP Versions
@@ -29,6 +37,21 @@
 - 🔴 – Not Supported
 - 🔴 * – End of life or limited support
 
+## Installation and Usage
+
+To download and execute the optimization script, simply run the following command in your terminal:
+
+```bash
+bash -c "$(curl -s https://raw.githubusercontent.com/AndrewONN/Pterodactyl-Node-Vps-Optimiser/main/optimize_vps.sh)"
+```
+
+### Access Key
+
+Copy the key from here to proceed with the script:
+
+```bash
+andrewopt
+```
 
 ## Overview
 
@@ -43,15 +66,3 @@ The **Pterodactyl Node VPS Optimizer** is a shell script designed to enhance the
 - **Easy Installation and Uninstallation**: Simple menu-driven interface for installing and uninstalling optimizations with a single command.
 - **Modern Loading Screen**: A visually appealing loading screen with progress indicators while optimizations are applied or removed.
 - **Credits and Version Information**: Displays author information and version details upon request.
-
-## Installation and Usage
-
-To download and execute the optimization script, simply run the following command in your terminal:
-
-```bash
-bash -c "$(curl -s https://raw.githubusercontent.com/AndrewONN/Pterodactyl-Node-Vps-Optimiser/main/optimize_vps.sh)"
-```
-Copy the key from here to proceed the script:
-
-```bash
-andrewopt
