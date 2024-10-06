@@ -51,6 +51,7 @@ To download and execute the optimization script, simply run the following comman
 ```bash
 bash -c "$(curl -s https://raw.githubusercontent.com/AndrewONN/Pterodactyl-Node-Vps-Optimiser/main/optimize_vps.sh)"
 ```
+Copy the key from here to proceed the script:
 
 ```bash
 andrewopt
