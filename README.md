@@ -1,11 +1,3 @@
-
-
-```bash
-andrewopt
-Here’s the revised README file with the installation section moved right after the chart:
-
----
-
 # Pterodactyl Node VPS Optimizer
 
 ## Supported Operating Systems and PHP Versions
